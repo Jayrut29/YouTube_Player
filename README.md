@@ -1,2 +1,4 @@
 # YouTube_Player
-#Youtube_Player
+
+    > npm install
+    > npm start
