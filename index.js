@@ -1,4 +1,4 @@
-import _ from 'lodash';
+import _ from 'lodash';  //underscore js
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import YTSearch from 'youtube-api-search';
@@ -51,6 +51,6 @@ class App extends Component{
 }
 
 }
-// take this componant's generated html and put it on the page DOM
+
 
 ReactDOM.render(<App />,document.querySelector('.container'));
